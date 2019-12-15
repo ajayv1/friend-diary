@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 # friend-diary
 
 Basic diary a simple ReactJS application, where friend information is displayed on card. This also have the search functionality in it.
 
-=======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

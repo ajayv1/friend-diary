@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ajayv1/friend-diary/static/css/main.47664e35.chunk.css",
-    "main.js": "/ajayv1/friend-diary/static/js/main.3d6673f4.chunk.js",
-    "main.js.map": "/ajayv1/friend-diary/static/js/main.3d6673f4.chunk.js.map",
-    "runtime-main.js": "/ajayv1/friend-diary/static/js/runtime-main.04d4f46e.js",
-    "runtime-main.js.map": "/ajayv1/friend-diary/static/js/runtime-main.04d4f46e.js.map",
-    "static/js/2.ec8ba6cb.chunk.js": "/ajayv1/friend-diary/static/js/2.ec8ba6cb.chunk.js",
-    "static/js/2.ec8ba6cb.chunk.js.map": "/ajayv1/friend-diary/static/js/2.ec8ba6cb.chunk.js.map",
-    "index.html": "/ajayv1/friend-diary/index.html",
-    "precache-manifest.d06a5f19bcf300394144fa5889631722.js": "/ajayv1/friend-diary/precache-manifest.d06a5f19bcf300394144fa5889631722.js",
-    "service-worker.js": "/ajayv1/friend-diary/service-worker.js",
-    "static/css/main.47664e35.chunk.css.map": "/ajayv1/friend-diary/static/css/main.47664e35.chunk.css.map",
-    "static/js/2.ec8ba6cb.chunk.js.LICENSE": "/ajayv1/friend-diary/static/js/2.ec8ba6cb.chunk.js.LICENSE"
+    "main.css": "/friend-diary/static/css/main.47664e35.chunk.css",
+    "main.js": "/friend-diary/static/js/main.b2ba3387.chunk.js",
+    "main.js.map": "/friend-diary/static/js/main.b2ba3387.chunk.js.map",
+    "runtime-main.js": "/friend-diary/static/js/runtime-main.768f473f.js",
+    "runtime-main.js.map": "/friend-diary/static/js/runtime-main.768f473f.js.map",
+    "static/js/2.ec8ba6cb.chunk.js": "/friend-diary/static/js/2.ec8ba6cb.chunk.js",
+    "static/js/2.ec8ba6cb.chunk.js.map": "/friend-diary/static/js/2.ec8ba6cb.chunk.js.map",
+    "index.html": "/friend-diary/index.html",
+    "precache-manifest.8e38aaa398d709c8a214eb977556ebab.js": "/friend-diary/precache-manifest.8e38aaa398d709c8a214eb977556ebab.js",
+    "service-worker.js": "/friend-diary/service-worker.js",
+    "static/css/main.47664e35.chunk.css.map": "/friend-diary/static/css/main.47664e35.chunk.css.map",
+    "static/js/2.ec8ba6cb.chunk.js.LICENSE": "/friend-diary/static/js/2.ec8ba6cb.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.04d4f46e.js",
+    "static/js/runtime-main.768f473f.js",
     "static/js/2.ec8ba6cb.chunk.js",
     "static/css/main.47664e35.chunk.css",
-    "static/js/main.3d6673f4.chunk.js"
+    "static/js/main.b2ba3387.chunk.js"
   ]
 }
